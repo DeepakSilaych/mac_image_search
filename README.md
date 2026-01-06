@@ -187,7 +187,7 @@ engine.close()
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 image_search/
