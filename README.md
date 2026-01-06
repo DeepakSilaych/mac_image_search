@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 Your photo library has thousands of images. Finding a specific one is painful:
 
@@ -41,7 +41,7 @@ Your photo library has thousands of images. Finding a specific one is painful:
 
 You remember _what's in the photo_, not when you took it or what you named it.
 
-## 💡 How It Works
+## How It Works
 
 Image Search understands the _meaning_ of your photos using state-of-the-art ML models running **entirely on your device**:
 
@@ -83,7 +83,7 @@ All processing happens locally. Your photos **never leave your device**.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature              | Description                                                               |
 | -------------------- | ------------------------------------------------------------------------- |
@@ -96,7 +96,7 @@ All processing happens locally. Your photos **never leave your device**.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -212,7 +212,7 @@ image_search/
 
 ---
 
-## 🛠️ Building
+## Building
 
 ### Create macOS App Bundle
 
@@ -226,14 +226,4 @@ uv run python scripts/build_app.py
 ./scripts/create_dmg.sh
 ```
 
----
 
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-<p align="center">
-  Made with ❤️ for Apple Silicon
-</p>
